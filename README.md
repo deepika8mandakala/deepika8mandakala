@@ -16,7 +16,7 @@ Machine Learning, NLP, and applied AI research.
   - Performed data preprocessing and ontology mapping  
 
 🧠 **Skills**
-- Python, Machine Learning, NLP
+- Python, Machine Learning, Deep Learning, NLP, SQL
 - Scikit-learn, NumPy, Pandas
 - Data Analysis, Research Documentation
 
